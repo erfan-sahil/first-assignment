@@ -1,0 +1,98 @@
+.text-align {
+    text-align: center;
+  }
+  .bg-img {
+    background-image: url(FIRST-PROJECT/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 350px;
+  }
+  
+  button {
+    background-image: linear-gradient(rgb(214, 67, 9), tomato);
+    border-radius: 5px;
+    padding: 15px;
+    color: whitesmoke;
+    font-size: larger ;
+  }
+  .white {
+    color: whitesmoke;
+    text-decoration: solid;
+  }
+  .black {
+    color: black;
+    text-decoration: solid;
+    text-align: center;
+  }
+  .text {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+  .wash {
+    color: rgba(rgb(7, 1, 1), rgb(0, 0, 0), rgb(0, 0, 0), alpha);
+    text-align: center;
+  }
+  .margin {
+    margin-bottom: 150px;
+  }
+  .no-margin {
+    margin: 0%;
+  }
+  .long-margin {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  #just {
+    text-align: justify;
+  }
+  .weight {
+    font-weight: 900;
+  }
+  .box {
+    margin: 20px;
+    padding: 20px 20px;
+    border: rgb(7, 1, 1);
+    border-radius: 5px;
+  }
+  .flex {
+    display: flex;
+    font-weight: 900;
+    font-family: "Times New Roman", Times, serif;
+    justify-content: center;
+  }
+  .bg {
+    background-color: lightgrey;
+  }
+  #lightorange {
+    background-image: linear-gradient(orange, rgb(219, 63, 35));
+  }
+  .tt {
+    align-content: center;
+  }
+  .shadow {
+    box-shadow: 20px;
+  }
+  .b-blk {
+    background-color: black;
+    text-align: center;
+    margin: 0%;
+  }
+  .clr {
+    color: tomato;
+  }
+  .clrw {
+    color: white;
+  }
+  .sndbox{padding: 80px;
+          border:black;
+      margin:20px; background-color:rgb(115, 228, 230);
+     border-radius: 5px;;}
+    .sndboxr{padding: 80px;
+  border:black;
+  margin: 20px;background-color: pink;border-radius: 5px;}  
+  .sndboxl{padding: 80px;
+  border:black;
+  margin:20px;background-color:bisque; border-radius: 5px;}
+  .jscont{justify-content: center;
+          display: flex;}
+          .hl{font-weight:bolder;}
